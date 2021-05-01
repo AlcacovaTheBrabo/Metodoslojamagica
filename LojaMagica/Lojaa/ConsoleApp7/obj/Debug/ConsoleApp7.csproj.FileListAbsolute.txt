@@ -1,0 +1,2 @@
+C:\Users\rafha\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\rafha\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
